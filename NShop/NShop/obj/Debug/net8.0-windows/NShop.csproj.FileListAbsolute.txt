@@ -1,0 +1,17 @@
+C:\Users\Hi\Desktop\NShop\NShop\bin\Debug\net8.0-windows\NShop.exe
+C:\Users\Hi\Desktop\NShop\NShop\bin\Debug\net8.0-windows\NShop.deps.json
+C:\Users\Hi\Desktop\NShop\NShop\bin\Debug\net8.0-windows\NShop.runtimeconfig.json
+C:\Users\Hi\Desktop\NShop\NShop\bin\Debug\net8.0-windows\NShop.dll
+C:\Users\Hi\Desktop\NShop\NShop\bin\Debug\net8.0-windows\NShop.pdb
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.Form1.resources
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.csproj.GenerateResource.cache
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.AssemblyInfoInputs.cache
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.AssemblyInfo.cs
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.dll
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\refint\NShop.dll
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.pdb
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.genruntimeconfig.cache
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\ref\NShop.dll
+C:\Users\Hi\Desktop\NShop\NShop\obj\Debug\net8.0-windows\NShop.csproj.Up2Date
